@@ -200,7 +200,7 @@
             this.Controls.Add(this.comboBoxPorts);
             this.Controls.Add(this.zedGraphControl1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Signal scanner";
             this.ResumeLayout(false);
             this.PerformLayout();
 
